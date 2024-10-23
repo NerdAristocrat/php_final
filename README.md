@@ -1,1 +1,1 @@
-
+Este é o meu projeto final de php. Consiste em um programa simples, que ajuda o usuário durante a leitura de um livro. O site registra os títulos dos livros e quantas páginas deles o usuário já leu. Infelizmente, o programa ainda está com algumas falhas que não consegui resolver a tempo, mas espero que esteja bom o bastante. Espero que gostem!
